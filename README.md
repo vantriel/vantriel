@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hi, I'm Julian. Welcome to my GitHub profile!</h2>
 <h5 align="center">tinkering with single-board computers, self-hosting and other stuff</h5>
 
+- 🌱 I’m currently learning **.NET Core and the C# programming language**
 
 <details>
     <summary><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now Playing</b> on Spotify</summary>
