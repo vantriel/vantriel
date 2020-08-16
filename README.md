@@ -1,4 +1,4 @@
-### 👋 Hi, I am Julian. Welcome to my GitHub profile!
+### 👋 Hi, I'm Julian. Welcome to my GitHub profile!
 
 <!--
 **vantriel/vantriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
