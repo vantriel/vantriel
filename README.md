@@ -40,12 +40,8 @@ src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original
 src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" 
 width="40" height="40"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
- alt="sass" width="40" height="40"/></p><p><img 
-align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantriel&layout=compact&hide=html"
- alt="vantriel" /></p>
-
-<p>&nbsp;<img 
+ alt="sass" width="40" height="40"/></p><p>
+<img 
 align="center" 
 src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true"
  alt="vantriel" /></p>
