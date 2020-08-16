@@ -8,5 +8,13 @@
         <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
     </a>
 </details>
+<details>
+
+    <summary>:zap: Github Stats</summary>
+
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true" alt="vantriel" />
+
+</details>
+
 
 
