@@ -2,7 +2,7 @@
 <h5 align="center">tinkering with single-board computers, self-hosting and other stuff</h5>
 
 - 🌱 I’m currently learning **React Native and .NET Core**
-- 📧 E-Mail **julian.vantriel@protonmail.com**
+- 📧 You can reach me via **julian.vantriel@protonmail.com**
 ---
 
 <details>
