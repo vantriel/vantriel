@@ -36,9 +36,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original
 src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"
  alt="photoshop" width="40" height="40"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
- alt="python" width="40" height="40"/> <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
- alt="react" width="40" height="40"/> <img 
+ alt="python" width="40" height="40"/><img 
 src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" 
 width="40" height="40"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
@@ -51,10 +49,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantriel&lay
 align="center" 
 src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true"
  alt="vantriel" /></p>
-
- 
-
-
 ---
 <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> **Now Playing on Spotify**<br>
 <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
