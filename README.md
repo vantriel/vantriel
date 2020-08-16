@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-🎧 **Now Playing** on <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> Spotify<br>
+🎧 **Now Playing** on <img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> Spotify<br>
 <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
     <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
