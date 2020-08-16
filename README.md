@@ -8,3 +8,5 @@
         <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
     </a>
 </details>
+
+
