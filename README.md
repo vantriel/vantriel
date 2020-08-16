@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Julian. Welcome to my GitHub profile!</h1>
-<h3 align="center">tinkering with single-board computers, self-hosting and other stuff</h3>
+<h2 align="center">👋 Hi, I'm Julian. Welcome to my GitHub profile!</h2>
+<h5 align="center">tinkering with single-board computers, self-hosting and other stuff</h5>
 
 
 <details>
