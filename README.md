@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **.NET Core and the C# programming language**
 
+---
+
 <details>
     <summary><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now Playing</b> on Spotify</summary>
     <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
