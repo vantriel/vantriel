@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hi, I'm Julian. Welcome to my GitHub profile!</h2>
 <h5 align="center">tinkering with single-board computers, self-hosting and other stuff</h5>
 
-- 🌱 I’m currently learning **.NET Core and the C# programming language**
-
+- 🌱 I’m currently learning **React Native and .NET Core**
+- 📫 How to reach me **julian.vantriel@protonmail.com**
 ---
 
 <details>
