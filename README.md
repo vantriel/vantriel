@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React Native and .NET Core**
+- 🌱 I’m currently learning **.NET Core**
 - 📧 You can reach me via **julian.vantriel@protonmail.com**
 
 ---
