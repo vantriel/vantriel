@@ -3,17 +3,14 @@
 
 
 <details>
-    <summary><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now Playing on Spotify</b></summary>
+    <summary><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now Playing</b> on Spotify</summary>
     <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
         <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
     </a>
 </details>
 <details>
-
-    <summary>:zap: Github Stats</summary>
-
+    <summary>:zap: Github Statistics</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true" alt="vantriel" />
-
 </details>
 
 
