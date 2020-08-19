@@ -4,7 +4,7 @@
 ---
 
 - 🌱 I’m currently learning **.NET Core**
-- 📧 You can reach me via <a href="https://www.linkedin.com/in/vantriel"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> and <a href="mailto:julian.vantriel@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-julian.vantriel@protonmail.com-informational?style=flat&logo=ProtonMail" alt="ProtonMail"></a>
+- 📧 You can reach me via <a href="https://www.linkedin.com/in/vantriel"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> and <a href="mailto:julian.vantriel@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-julian.vantriel@protonmail.com-lightgrey?style=flat&logo=ProtonMail" alt="ProtonMail"></a>
 
 ---
 
