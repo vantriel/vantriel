@@ -6,14 +6,12 @@ Tinkering with single-board computers, self-hosting and other stuff.
 
 ---
 
-<img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now playing</b> on Spotify<br>
+<h3><img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now playing</b> on Spotify<br></h3>
 <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
     <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
----
-
-:zap: GitHub <b>Stats</b>
+<h3>:zap: GitHub <b>Stats</b></h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true" alt="vantriel" />
 
