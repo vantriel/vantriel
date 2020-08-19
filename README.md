@@ -15,6 +15,6 @@ Tinkering with single-board computers, self-hosting and other stuff.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true" alt="vantriel" />
 
-:arrow_down_small: Check out my pinned repositories :arrow_down_small:
+<h4>:arrow_down_small: Check out my pinned repositories :arrow_down_small:<h4>
 
 
