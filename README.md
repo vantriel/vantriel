@@ -12,7 +12,7 @@
 
 ---
 
-<img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now Playing</b> on Spotify<br>
+<img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Spotify</b><br>
 <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
     <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
