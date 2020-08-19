@@ -4,15 +4,11 @@
 ---
 
 - 🌱 I’m currently learning **.NET Core**
+- 📧 You can reach me via <a href="https://www.linkedin.com/in/vantriel"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> and <a href="mailto:julian.vantriel@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-julian.vantriel@protonmail.com-informational?style=flat&logo=ProtonMail" alt="ProtonMail"></a>
 
 ---
 
-<h6>📧 You can reach me via<h6>
-<a href="mailto:julian.vantriel@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-julian.vantriel@protonmail.com-informational?style=flat&logo=ProtonMail" alt="ProtonMail"></a> <a href="https://www.linkedin.com/in/vantriel"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
----
-
-<img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Spotify</b><br>
+<img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now playing</b> on Spotify<br>
 <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
     <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
