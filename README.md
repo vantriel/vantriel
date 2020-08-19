@@ -13,7 +13,7 @@ Tinkering with single-board computers, self-hosting and other stuff.
 
 ---
 
-:zap: GitHub Stats
+:zap: GitHub <b>Stats</b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true" alt="vantriel" />
 
