@@ -8,12 +8,17 @@
 
 ---
 
-<details>
-    <summary><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now Playing</b> on Spotify</summary>
-    <a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
-        <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-    </a>
-</details>
+<a href="https://www.linkedin.com/in/vantriel"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+---
+
+<img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now Playing</b> on Spotify
+<a href="https://spotify-nowplaying-vantriel.vercel.app/now-playing?open">
+    <img src="https://spotify-nowplaying-vantriel.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
+---
+
 <details>
     <summary>:zap: Github Statistics</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=vantriel&show_icons=true" alt="vantriel" />
