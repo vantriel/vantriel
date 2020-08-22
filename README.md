@@ -4,6 +4,8 @@
 
 Tinkering with single-board computers, self-hosting and other stuff.
 
+- 🌱 I'm currently learning <b>C#</b> and <b>.NET Core</b>
+
 ---
 
 <h3><img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> <b>Now playing</b> on Spotify<br></h3>
