@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Julian. Welcome to my GitHub profile!</h2>
 
-<a align="center" href="https://www.linkedin.com/in/vantriel"><img src="https://img.shields.io/badge/-vantriel-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:julian.vantriel@protonmail.com"><img src="https://img.shields.io/badge/-julian.vantriel@protonmail.com-8B89CC?style=flat-square&logo=ProtonMail&logoColor=white" alt="ProtonMail"></a>
+<a align="center" href="https://www.linkedin.com/in/vantriel"><img src="https://img.shields.io/badge/-vantriel-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 Tinkering with single-board computers, self-hosting and other stuff.
 
